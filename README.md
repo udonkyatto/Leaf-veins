@@ -1,2 +1,2 @@
-# Movie-slides
-Storyline advancement markers for some movies
+# Story-slides
+Record some storylines and advancement
